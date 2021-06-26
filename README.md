@@ -1,4 +1,4 @@
-## Optimstruct
+## scipy-optimstruct
 
 [![Build Status](https://travis-ci.com/andrewnyu/scipy-optimstruct.svg?branch=master)](https://travis-ci.com/andrewnyu/scipy-optimstruct.svg?branch=master)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg )](https://raw.githubusercontent.com/andrewnyu/scipy-optimstruct/master/LICENSE)
