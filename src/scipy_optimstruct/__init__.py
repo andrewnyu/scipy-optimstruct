@@ -1,1 +1,1 @@
-from . import *
+from .optimstruct import *
