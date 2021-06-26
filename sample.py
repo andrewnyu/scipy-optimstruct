@@ -1,5 +1,5 @@
 import numpy as np
-from .optimstruct.optim_dict import optim_dict
+from src.scipy_optimstruct.optim_dict import optim_dict
 
 my_vars = optim_dict()
 
