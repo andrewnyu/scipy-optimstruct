@@ -1,2 +1,5 @@
 language: python
+install:
+    - pip install numpy
+    - pip install scipy
 script: pytest tests/test_optimstruct.py
