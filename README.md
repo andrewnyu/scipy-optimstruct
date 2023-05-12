@@ -5,6 +5,15 @@
 
 A simple helper function to enable an easier implementation of variables and constraints for Scipy Optimize
 <br>
+
+Contents:
+<br>
+* A Jupyter notebook that provides an introduction to optimization problem structures and demonstrates how to use the SciPy optimization module to solve optimization problems.
+* Examples of optimization problem structures, including linear programming, quadratic programming, and nonlinear programming.
+* Sample code that demonstrates how to use the optimization problem structures to solve practical problems.
+* A requirements.txt file that lists the required Python packages to run the example code.
+
+
 <br>
 ### Sample
 <br>
