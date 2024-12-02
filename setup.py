@@ -5,7 +5,7 @@ setup(
     name='scipy-optimstruct',
     packages=['scipy_optimstruct'],  # Adjusted
     package_dir={'': 'src'},         # Added
-    version='0.1.1',
+    version='0.1.3',
     license='MIT',
     description='Enable easier organization of variables and constraints for Scipy Optimize',
     long_description=(Path(__file__).parent / "README.md").read_text(),
