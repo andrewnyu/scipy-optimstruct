@@ -1,6 +1,6 @@
 # scipy-optimstruct
 
-[![Build Status](https://travis-ci.com/andrewnyu/scipy-optimstruct.svg?branch=master)](https://travis-ci.com/andrewnyu/scipy-optimstruct.svg?branch=master)
+[![Build Status](https://travis-ci.com/andrewnyu/scipy-optimstruct.svg?branch=master&cache-buster=123)](https://travis-ci.com/andrewnyu/scipy-optimstruct.svg?branch=master)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg )](https://raw.githubusercontent.com/andrewnyu/scipy-optimstruct/master/LICENSE)
 
 scipy-optimstruct is a Python package that simplifies the implementation of variables and constraints for optimization problems using the SciPy optimization module. It provides a convenient way to define and manage problem structures, making it easier to solve optimization problems.
