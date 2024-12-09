@@ -27,12 +27,14 @@ To use scipy-optimstruct, follow these steps:
 Make sure you have the required Python packages installed. You can find the complete list in the requirements.txt file included with the package.
 
 <br>
-### Sample
+
+## Sample
+
 <br>
 
 ```python
 import numpy as np
-from optimstruct.optim_dict import optim_dict
+from scipy_optimstruct import optim_dict
 
 #initialize optim_dict
 my_vars = optim_dict()
